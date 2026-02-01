@@ -1,4 +1,4 @@
-import { getVotars } from "@/lib/votar";
+import { getVotars } from "@/lib/data";
 
 export async function GET(req) {
   try {
